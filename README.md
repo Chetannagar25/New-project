@@ -1,5 +1,6 @@
 # New-project
-form to apply for job 
+form to apply for job
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
